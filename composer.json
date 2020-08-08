@@ -1,0 +1,11 @@
+{
+    "name": "kobens/coding-standards",
+    "description": "Centralized set of coding standards for kobens/* composer projects.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Darren Felton",
+            "email": "darren_felton@hotmail.com"
+        }
+    ]
+}
